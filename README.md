@@ -3,7 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
+
+
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25px" width="25px"/>](https://www.linkedin.com/in/thechiragrathod)
+
+
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="25px" width="25px"/>](https://github.com/TheChiragRathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="25px" width="25px"/>](https://www.instagram.com/chiragstar)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="25px" width="25px"/>](https://www.facebook.com/profile.php?id=100024945319919)
