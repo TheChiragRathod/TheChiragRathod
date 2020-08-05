@@ -20,6 +20,11 @@
 - 😄 Pronouns: He/Techy ChiRag
 - ⚡ Fun fact: I spend almost 6 hours playing video games everyday.
 
+
+<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>
+
+
+
 **Languages and Tools:**
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" align="left" height="25px" width="25px"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" height="25px" width="25px"/>
