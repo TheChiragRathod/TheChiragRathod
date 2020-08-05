@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I spend almost 6 hours playing video games everyday.
 
 
-<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>
+[<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](%3Cimg%20src=%22https://img.shields.io/twitter/follow/thechiragrathod?style=social%22/%3E)
 
 
 
