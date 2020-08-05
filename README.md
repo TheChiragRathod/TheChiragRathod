@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Mobile Application Development.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 🤔 I’m looking for help with AI Projects.
-- 💬 Ask me about JAVA, Python or Any Tech related stuff.
+- 💬 Ask me about JAVA, Python Programming or Any Tech related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 😄 Pronouns: He/Techy ChiRag
 - ⚡ Fun fact: I spend almost 6 hours playing video games everyday.
