@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Mobile Application Development.
-- 👯 I’m looking to collaborate on [YouTube.](%5BYouTube%5D%28%5BYouTube%20-%20Techy%20ChiRag%5D%28https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA%29%29)
+- 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA%29%29)
 - 🤔 I’m looking for help with AI Projects.
 - 💬 Ask me about JAVA, Python or Any Tech related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
