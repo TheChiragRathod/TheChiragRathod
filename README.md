@@ -1,4 +1,4 @@
-### Hi there I Am Chirag Rathod 👋
+### Hi there, I'm Chirag Rathod 👋
 
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 
