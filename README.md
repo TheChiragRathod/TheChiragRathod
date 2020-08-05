@@ -7,7 +7,7 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" align="left" height="25px" width="25px"/>](https://github.com/TheChiragRathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" align="left" height="25px" width="25px"/>](https://www.instagram.com/chiragstar)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" align="left" height="25px" width="25px"/>](https://www.facebook.com/profile.php?id=100024945319919)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" align="left" height="25px" width="25px"/>](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 
 
 
