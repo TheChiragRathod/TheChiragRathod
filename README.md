@@ -2,6 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 
+<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://twitter.com/TheChiragRathod)"/>
+
 
 - 🌱 I’m currently learning Mobile Application Development.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
