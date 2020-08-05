@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 
-<img src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://twitter.com/TheChiragRathod)"/>
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
 
 
 - 🌱 I’m currently learning Mobile Application Development.
