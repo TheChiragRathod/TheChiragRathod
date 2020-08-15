@@ -36,7 +36,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25px" width="25px"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />        <img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 <img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Student-Database-Project-With-Java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>  <img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Number_Converter&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
