@@ -51,7 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/TheChiragRathod" ><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
 
 
-<a href="https://github.com/TheChiragRathod/Student_Management_Java_GUI_App"><img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Student_Management_Java_GUI_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>  <a href="https://github.com/TheChiragRathod/Number_Converter_Android_App"> <img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Number_Converter_Android_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/> </a>
+<a href="https://github.com/TheChiragRathod/Student_Management_Java_GUI_App" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Student_Management_Java_GUI_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>  <a href="https://github.com/TheChiragRathod/Number_Converter_Android_App" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Number_Converter_Android_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/> </a>
 
 
 ***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
