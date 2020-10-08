@@ -22,6 +22,8 @@
 
 <hr>
 </hr>
+
+
 [<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](https://twitter.com/TheChiragRathod)
 [<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/thechiragrathod)
 [<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/TheChiragRathod)
