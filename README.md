@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/>
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
+[<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" align="left" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" height="25px" width="25px"/>](https://www.linkedin.com/in/thechiragrathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" align="left" height="25px" width="25px"/>](https://github.com/TheChiragRathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" align="left" height="25px" width="25px"/>](https://www.instagram.com/chiragstar)
