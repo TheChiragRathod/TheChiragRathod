@@ -30,7 +30,7 @@
 
 <hr>
 </hr>
-
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="25px" width="25px"/>
 
 
 **Languages and Tools:**
