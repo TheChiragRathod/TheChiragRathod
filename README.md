@@ -10,7 +10,7 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="400px" width="320px"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="400px" width="420px"/>
 
 - 🌱 I’m currently learning Mobile Application Development.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
