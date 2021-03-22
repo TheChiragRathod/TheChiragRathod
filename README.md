@@ -1,6 +1,7 @@
 ### Hi there, I'm Chirag Rathod 👋
 
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/>
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" height="25px" width="25px"/>](https://www.linkedin.com/in/thechiragrathod)
@@ -10,7 +11,6 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/>
 
 - 🌱 I’m currently learning Mobile Application Development.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
