@@ -4,7 +4,8 @@
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/> <br/>
 
-<br/>
+<hr>
+</hr>
 
 
 [<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" align="left" height="25px" width="25px"/>](https://twitter.com/TheChiragRathod)
@@ -12,7 +13,6 @@
 [<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" align="left" height="25px" width="25px"/>](https://www.instagram.com/chiragstar)
 [<img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" align="left" height="25px" width="25px"/>](https://www.facebook.com/profile.php?id=100024945319919)
 [<img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667"  height="25px" width="25px"/>](https://www.youtube.com/techychirag)
-
 
 
 - 🌱 I’m currently learning Mobile Application Development.
