@@ -47,7 +47,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" align="left" height="25px" width="25px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" align="left" height="25px" width="25px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" align="left" height="25px" width="25px"/>
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" align="left" height="30px" width="30px"/>](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" height="30px" width="30px"/>](https://www.mongodb.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="left" height="45px" width="45px"/>](https://nodejs.org/en)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" height="25px" width="25px"/>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" align="left" height="25px" width="25px"/>
