@@ -71,5 +71,5 @@
 <hr>
 </hr>
 
-***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
+***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by <img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" height="25" width="25px"> some of the repositories!</h3>*** 
 
