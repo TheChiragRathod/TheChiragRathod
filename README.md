@@ -15,9 +15,9 @@
 [<img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667"  height="35px" width="35px"/>](https://www.youtube.com/techychirag)
 
 
-- 🌱 I’m currently learning Mobile Application Development.
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
-- 🤔 I’m looking for help with AI Projects.
+- 🤔 I’m looking for help with ML Projects.
 - 💬 Ask me about JAVA, Python Programming or Any Tech related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 😄 Pronouns: He/Techy ChiRag
