@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Ruby On Rails Web Application Framework.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
-- 🤔 I’m looking for help with ML Projects.
+- 🤔 I’m looking for help with Ruby On Rails Projects.
 - 💬 Ask me about JAVA, Python Programming or Any Tech related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 😄 Pronouns: He/Techy ChiRag
