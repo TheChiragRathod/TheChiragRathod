@@ -1,15 +1,15 @@
 ### Hi there, I'm Chirag Rathod 👋
 
 [<img src="https://komarev.com/ghpvc/?username=ichiragrathod&label=Views&color=blue&style=plastic" />](https://github.com/iChiragRathod)
-[<img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" height="200px" width="200px" />](https://github.com/iChiragRathod)
+[<img src="https://user-images.githubusercontent.com/70204047/129378227-9fe9017a-98d6-4270-bec3-8a0310fc6c4b.gif" height="200px" width="200px" />](https://github.com/thechiragrathod)
 
-[<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/>](https://github.com/iChiragRathod) <br/>
+[<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" height="350px" width="420px"/>](https://github.com/thechiragrathod) <br/>
 
 <hr>
 </hr>
 
 
-[<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" align="left" height="35px" width="35px"/>](https://twitter.com/TheChiragRathod)
+[<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" align="left" height="35px" width="35px"/>](https://twitter.com/thechiragrathod)
 [<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="left" height="35px" width="35px"/>](https://www.linkedin.com/in/thechiragrathod)
 [<img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" align="left" height="35px" width="35px"/>](https://www.instagram.com/chiragstar)
 [<img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" align="left" height="35px" width="35px"/>](https://www.facebook.com/profile.php?id=100024945319919)
@@ -64,10 +64,10 @@
 </hr>
 
 
- <a href="https://github.com/ichiragrathod" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/ichiragrathod" ><img src="https://github-readme-stats.vercel.app/api?username=ichiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+ <a href="https://github.com/thechiragrathod" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/thechiragrathod" ><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
 
 
 
-***<h3>Show some [<img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/>](https://github.com/ichiragrathod) by [<img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" height="25" width="25px">](https://github.com/ichiragrathod) some of the repositories!</h3>*** 
+***<h3>Show some [<img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/>](https://github.com/thechiragrathod) by [<img src="https://camo.githubusercontent.com/0ff0f97964579010ea942ea6de5a45402aaf59a705cb51d0a0d547334118ddd9/68747470733a2f2f696d6775722e636f6d2f6f376e635a46702e6a7067" height="25" width="25px">](https://github.com/thechiragrathod) some of the repositories!</h3>*** 
 
