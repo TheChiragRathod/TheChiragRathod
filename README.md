@@ -19,7 +19,7 @@
 - 🌱 I’m currently working on Ruby On Rails Web Application Development.
 - 👯 I’m looking to collaborate on [YouTube.](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 🤔 I’m looking for help with Ruby On Rails Projects.
-- 💬 Ask me about Ruby on Rails, JAVA, Python, Programming, or any tech-related stuff.
+- 💬 Ask me about Ruby on Rails, JAVA, Python, or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @TheChiragRathod](https://twitter.com/TheChiragRathod), [YouTube - Techy ChiRag](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
 - 😄 Pronouns: He/Techy ChiRag
 - ⚡ Fun fact: Learning is a continuous process.
@@ -39,7 +39,7 @@
 
 **Languages and Tools:**
 
-[<img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" align="left" height="40px" width="40px"/>](https://www.android.com/intl/en_in/)
+
 [<img src="https://avatars.githubusercontent.com/u/4223?s=200&v=4" align="left" height="40px" width="40px"/>](https://rubyonrails.org/)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40px" width="40px"/>](https://www.w3schools.com/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40px" width="40px"/>](https://www.cprogramming.com/)
