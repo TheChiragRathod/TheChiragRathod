@@ -9,7 +9,7 @@
 </hr>
 
 [<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/twitter/twitter.svg" align="left" height="35px" width="35px"/>](https://twitter.com/thechiragrathod)
-[<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/linkedin/linkedin.svg" align="left" height="35px" width="35px"/>](https://www.linkedin.com/in/thechiragrathod)
+[<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/linkedin/linkedin.svg" align="left" height="35px" width="35px"/>](https://www.linkedin.com/in/ichiragrathod)
 [<img src="https://github.com/dheereshagrwal/colored-icons/raw/master/public/icons/instagram/instagram.svg" align="left" height="35px" width="35px"/>](https://www.instagram.com/i_chiragrathod)
 [<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/facebook/facebook.svg" align="left" height="35px" width="35px"/>](https://www.facebook.com/profile.php?id=100024945319919)
 [<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg"  height="35px" width="35px"/>](https://www.youtube.com/techychirag)
